@@ -1,0 +1,20 @@
+{
+  "name": "shahi-word-counter",
+  "version": "1.0.1",
+  "description": "A CLI Word Counter tool built with TypeScript for efficiently counting words in text files. Simple and user-friendly interface.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ISMAIL AHMED SHAH",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
